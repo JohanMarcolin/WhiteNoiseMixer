@@ -20,3 +20,4 @@ C:\Users\J_TH\source\repos\WhiteNoiseMixer\obj\Debug\net8.0\refint\WhiteNoiseMix
 C:\Users\J_TH\source\repos\WhiteNoiseMixer\obj\Debug\net8.0\WhiteNoiseMixer.pdb
 C:\Users\J_TH\source\repos\WhiteNoiseMixer\obj\Debug\net8.0\WhiteNoiseMixer.genruntimeconfig.cache
 C:\Users\J_TH\source\repos\WhiteNoiseMixer\obj\Debug\net8.0\ref\WhiteNoiseMixer.dll
+C:\Users\J_TH\source\repos\WhiteNoiseMixer\obj\Debug\net8.0\WhiteNoiseMixer.sourcelink.json

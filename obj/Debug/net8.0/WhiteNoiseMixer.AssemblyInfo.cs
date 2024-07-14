@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhiteNoiseMixer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+443801f2271ea1290945d214b16bdd99fe63e06f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhiteNoiseMixer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhiteNoiseMixer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
